@@ -9,7 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "next": "16.2.2",
+=======
+    "next": "16.2.1",
+>>>>>>> 24f55f60474de77bb01131345b8ff6379b9cd2ee
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
@@ -19,7 +23,11 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
+<<<<<<< HEAD
     "eslint-config-next": "16.2.2",
+=======
+    "eslint-config-next": "16.2.1",
+>>>>>>> 24f55f60474de77bb01131345b8ff6379b9cd2ee
     "tailwindcss": "^4",
     "typescript": "^5"
   }
